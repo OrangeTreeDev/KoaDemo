@@ -12,6 +12,10 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "koa": "^1.4.0",
+    "koa-body": "^1.6.0",
+    "koa-router": "^5.4.0",
+    "koa-session": "^4.3.0",
+    "multiline": "^1.0.2",
     "thunkify": "^2.1.2"
   }
 }
